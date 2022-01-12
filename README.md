@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://qaq-qvq.github.io)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
+![screenshot home](https://qaq-qvq.github.io/images/screenshots/homePage.jpg)
 
 ## 使用文档
 

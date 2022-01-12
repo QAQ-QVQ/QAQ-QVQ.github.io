@@ -4,10 +4,10 @@
 baseurl:
 url: "https://qaq-qvq.github.io"
 date_format: "ordinal"
-title: 心愿屋
-subtitle: "分享与链接"
+title: 理想烟火
+subtitle: "理想与烟火"
 description: "刁宇的个人博客"
-keywords: 代码与生活, Yu Diao , 有趣的程序员
+keywords: 人间的烟火与理想, Yu Diao , 有趣的程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 repository: qaq-qvq/qaq-qvq.github.io
@@ -20,12 +20,12 @@ components:
     # 分享
     # weibo,qq,wechat,douban,qzone,linkedin,facebook,twitter
     share:
-        enabled: false
-        hide-platforms: qq,facebook
+        enabled: true
+        hide-platforms: qq,qzone
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2022-01-01
     # My Popular Repositories
     side_bar_repo:
         enabled: true

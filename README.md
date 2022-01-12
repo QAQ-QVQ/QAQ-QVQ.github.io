@@ -18,7 +18,7 @@
 
 **[在线预览 &rarr;](https://qaq-qvq.github.io)**
 
-![screenshot home](https://qaq-qvq.github.io/images/screenshots/homePage.jpg)
+![screenshot home](https://qaq-qvq.github.io/assets/images/screenshots/homePage.jpg)
 
 ## 使用文档
 

@@ -69,14 +69,13 @@ navs:
   -
     href: /categories/
     label: 分类
+  -
+    href: /archives/
+    label: 烟火
 
-#   -
-#     href: /archives/
-#     label: 归档
-
-#   -
-#     href: /open-source/
-#     label: 开源
+  # -
+  #   href: /open-source/
+  #   label: 开源
 
   -
     href: /wiki/
@@ -89,6 +88,7 @@ navs:
   -
     href: /about/
     label: 关于
+
 
 # ---------------- #
 #       RSS        #
@@ -114,7 +114,7 @@ plugins:
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
-    - jemoji
+    # - jemoji
 #     - jekyll-mentions
 collections:
     wiki:

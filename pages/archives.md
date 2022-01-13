@@ -1,10 +1,10 @@
 ---
-layout: page
-title: 归档
-description: 按年份归档
-keywords: 归档
+layout: categories
+title: Fireworks
+description: 生活因你而火热
+keywords: life , game
 comments: false
-menu: 归档
+menu: 烟火
 permalink: /archives/
 ---
 

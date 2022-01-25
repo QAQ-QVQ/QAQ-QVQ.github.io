@@ -142,8 +142,8 @@ gitment:
 gitalk:
     owner: 
     repo: blog-comments
-    clientID: 
-    clientSecret: 
+    clientID: cd53b1c1a48259beeca9
+    clientSecret: fa03aa7fb4003d799d6dfd74c51d983f48c245ca
 # https://utteranc.es/
 utterances:
     repo: mzlogin/blog-comments

@@ -130,23 +130,23 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: 
+    username:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: 
+    owner: QAQ-QVQ
     repo: blog-comments
     oauth:
         client_id: 
         client_secret: 
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: 
+    owner: QAQ-QVQ
     repo: blog-comments
     clientID: cd53b1c1a48259beeca9
     clientSecret: fa03aa7fb4003d799d6dfd74c51d983f48c245ca
 # https://utteranc.es/
 utterances:
-    repo: mzlogin/blog-comments
+    repo: QAQ-QVQ/blog-comments
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 

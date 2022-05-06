@@ -1,13 +1,13 @@
-```yaml
+---
 layout: post
 title: 关于lifecycle，livedata监控网络变化，适用于LOLLIPOP android 21+
 categories: Blog
 description: 网络工具，监控
 keywords: lifecycle, livedata，LOLLIPOP+
-```
+
+---
 
 ```kotlin
-
 private val TAG = "NetworkLiveData"
 
 @RequiresApi(Build.VERSION_CODES.LOLLIPOP)
@@ -174,9 +174,4 @@ class NetworkLiveData : LiveData<Int>() {
         return false
     }
 }
-
-
-
 ```
-
-

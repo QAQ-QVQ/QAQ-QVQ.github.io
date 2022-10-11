@@ -7,6 +7,8 @@ keywords: lifecycle, livedata，LOLLIPOP+
 
 ---
 
+# 使用lifecycle livedata监控网络变化。适用于LOLLIPOP android 21+
+
 ```kotlin
 private val TAG = "NetworkLiveData"
 
